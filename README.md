@@ -9,7 +9,7 @@ Today, I am proficient in offensive and defensive security practices, specializi
 ## Projects
 
 ## Certification
-[![Google Cyber Security Certification](https://img.shields.io/badge/Certification-Google_Cyber_Security-blue?style=for-the-badge)](certificate_link)
+[![Google Cyber Security Certification](https://img.shields.io/badge/Certification-Google_Cyber_Security-blue?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/Screenshot%202024-04-25%20at%2020-23-51%20google%20cybersecurity%20certificate.pdf.png)
 
 ## Contact
 
