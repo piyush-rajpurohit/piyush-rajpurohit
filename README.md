@@ -1,4 +1,4 @@
-# Piyush Rajpurohit Portfolio
+# My Portfolio
 
 ## About Me
 
