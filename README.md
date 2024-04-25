@@ -14,3 +14,5 @@ Today, I am proficient in offensive and defensive security practices, specializi
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/piyush-r-67a783284)
+
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:piyushrajpurohit378@gmail.com)
