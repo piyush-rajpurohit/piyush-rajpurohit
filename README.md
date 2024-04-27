@@ -11,6 +11,8 @@ Today, I am proficient in offensive and defensive security practices, specializi
 
 [![SOC Monitoring Lab ](https://img.shields.io/badge/SOC_Monitoring_Lab_Demo-blue?style=for-the-badge)](https://github.com/piyush-rajpurohit/SOC-Monitoring-Lab)
 
+[![IP Mass Ping ](https://img.shields.io/badge/IP_Mass_Ping-blue?style=for-the-badge)](https://github.com/piyush-rajpurohit/IP-Mass-Ping)
+
 ## Certificate
 [![Google Cyber Security Certification](https://img.shields.io/badge/Google_Cyber_Security-green?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/Screenshot%202024-04-25%20at%2020-23-51%20google%20cybersecurity%20certificate.pdf.png)
 
