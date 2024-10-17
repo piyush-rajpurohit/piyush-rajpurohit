@@ -16,7 +16,7 @@ Today, I am proficient in offensive and defensive security practices, specializi
 ## Certificate
 [![CompTIA Cybersecurity Analyst+ (CySA+) (CS0-003) ](https://img.shields.io/badge/CompTIA_Cybersecurity_Analyst+_(CySA+)-green?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/CYSA%2B%20certificate.png)
 
-[![CompTIA Network-+](https://img.shields.io/badge/CompTIA_Network_+(CySA+)-green?style=for-the-badge)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2325d616-be10-4a3e-97a7-60afffd0f06d.pdf)
+[![CompTIA Network-+](https://img.shields.io/badge/CompTIA_Network_+-green?style=for-the-badge)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2325d616-be10-4a3e-97a7-60afffd0f06d.pdf)
 
 [![CompTIA Security-+](https://img.shields.io/badge/CompTIA_Security_+-green?style=for-the-badge)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-2758e9e1-8b08-46f9-ba4c-b5e2b2e0fdd3.pdf)
 
