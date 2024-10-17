@@ -14,7 +14,7 @@ Today, I am proficient in offensive and defensive security practices, specializi
 [![IP Mass Ping ](https://img.shields.io/badge/IP_Mass_Ping-blue?style=for-the-badge)](https://github.com/piyush-rajpurohit/IP-Mass-Ping)
 
 ## Certificate
-[![CompTIA Cybersecurity Analyst+ (CySA+) (CS0-003) ](https://img.shields.io/badge/CompTIA-green?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/CYSA%2B%20certificate.png)
+[![CompTIA Cybersecurity Analyst+ (CySA+) (CS0-003) ](https://img.shields.io/badge/CompTIA_Cybersecurity_Analyst+_(CySA+)_(CS0-003)-green?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/CYSA%2B%20certificate.png)
 
 [![Google Cyber Security Certification](https://img.shields.io/badge/Google_Cyber_Security-green?style=for-the-badge)](https://github.com/piyush-rajpurohit/piyush-rajpurohit/blob/main/Screenshot%202024-04-25%20at%2020-23-51%20google%20cybersecurity%20certificate.pdf.png)
 
